@@ -2,12 +2,17 @@
 > pokedex@1.0.0 dev
 > npx tsc && node dist/main.js
 
-pokedex > Unknown command: "hellllooo". Type "help" for a list of commands.
-pokedex > 
-Welcome to the Pokedex!
-Usage:
-
-help: Displays a help message
-exit: Exit the Pokedex
-
+pokedex > Exploring pastoria-city-area...
+Found Pokemon:
+ - tentacool
+ - tentacruel
+ - magikarp
+ - gyarados
+ - remoraid
+ - octillery
+ - wingull
+ - pelipper
+ - shellos
+ - gastrodon
+pokedex > Unknown command: "у�exit". Type "help" for a list of commands.
 pokedex > Closing the Pokedex... Goodbye!

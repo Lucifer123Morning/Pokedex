@@ -1,5 +1,9 @@
-import { initState } from "./state.js";
 import { startREPL } from "./repl.js";
+import { initState } from "./state.js";
 
-const state = initState();
-startREPL(state); // передаём state
+async function main() {
+    const state = initState(1000 * 60 * 5); // 5 minutes
+    await startREPL(state);
+}
+
+main();

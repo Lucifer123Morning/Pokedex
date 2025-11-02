@@ -1,12 +1,17 @@
 import { createInterface } from "readline";
 import { getCommands } from "./commands.js";
-// Инициализация состояния
-export function initState() {
+import { PokeAPI } from "./pokeapi.js";
+export function initState(cacheInterval) {
     const rl = createInterface({
         input: process.stdin,
         output: process.stdout,
-        prompt: "Pokedex > ",
+        prompt: "pokedex > ",
     });
-    const commands = getCommands();
-    return { rl, commands };
+    return {
+        readline: rl,
+        commands: getCommands(),
+        pokeAPI: new PokeAPI(cacheInterval),
+        nextLocationsURL: "",
+        prevLocationsURL: "",
+    };
 }

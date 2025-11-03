@@ -2,17 +2,13 @@
 > pokedex@1.0.0 dev
 > npx tsc && node dist/main.js
 
-pokedex > Exploring pastoria-city-area...
-Found Pokemon:
- - tentacool
- - tentacruel
- - magikarp
- - gyarados
- - remoraid
- - octillery
- - wingull
- - pelipper
- - shellos
- - gastrodon
-pokedex > Unknown command: "у�exit". Type "help" for a list of commands.
+pokedex > Throwing a Pokeball at pidgey...
+pidgey was caught!
+You may now inspect it with the inspect command.
+pokedex > Throwing a Pokeball at caterpie...
+caterpie was caught!
+You may now inspect it with the inspect command.
+pokedex > Your Pokedex:
+ - pidgey
+ - caterpie
 pokedex > Closing the Pokedex... Goodbye!

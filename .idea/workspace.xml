@@ -5,94 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0499c95a-471c-4466-9e5f-1265bcf3769d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/command_explore.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command_map.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pokeapi.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pokecache.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pokecache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command_catch.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command_inspect.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/command_pokedex.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/command.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/command_exit.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/command_exit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/command_help.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/command_help.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/commands.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/repl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/repl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/repl.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/repl.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/state.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/state.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/baseline-browser-mapping" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/baseline-browser-mapping" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/browserslist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/esbuild" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/esbuild" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/esparse" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/esparse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/esvalidate" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/esvalidate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/glob" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/glob" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/handlebars" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/jest" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/jest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/js-yaml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/js-yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/jsesc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/jsesc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/json5" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/json5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/nanoid" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/nanoid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/napi-postinstall" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/napi-postinstall" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/node-which" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/node-which" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/parser" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/parser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/rollup" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/rollup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/ts-jest" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/ts-jest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/tsc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/tsc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/tsserver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/update-browserslist-db" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/update-browserslist-db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/vite" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/vite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/vitest" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/vitest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.bin/why-is-node-running" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/why-is-node-running" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/vitest/da39a3ee5e6b4b0d3255bfef95601890afd80709/results.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/vitest/da39a3ee5e6b4b0d3255bfef95601890afd80709/results.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/linux-x64/bin/esbuild" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@esbuild/linux-x64/bin/esbuild" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@esbuild/linux-x64/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@esbuild/linux-x64/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/expect/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/expect/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/mocker/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/mocker/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/pretty-format/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/pretty-format/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/runner/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/runner/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/snapshot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/snapshot/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/spy/dist/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/spy/dist/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/spy/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/spy/dist/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/spy/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/spy/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitest/utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitest/utils/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/bin/esbuild" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild/bin/esbuild" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/lib/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild/lib/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/esbuild/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esbuild/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/browser.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/browser.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/base.RFExFinv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/browser.d.B9iJzZyn.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/cac.Be29vze6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/cli-api.6GYRwzrM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/config.d.u2CUDWwS.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/coverage.DT47gDHj.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/global.d.BgJSTpgQ.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/index.BdSLhLDZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/index.CcRZ6fUh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/index.DON9WL-E.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/init-forks.WSf5dRNP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/init-threads.CgZguQvI.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/init.CpZMjXJJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/moduleRunner.d.YtNsMIoJ.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/plugin.d.D8LgBgbU.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/reporters.d.D-el0219.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/startModuleRunner.BqQUfEjB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/vm.CqZQkf-M.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/chunks/worker.d.BFk-vvBU.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/cli.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/config.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/config.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/coverage.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/coverage.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/coverage.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/coverage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/environments.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/environments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/index.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/module-evaluator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/module-evaluator.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/module-runner.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/module-runner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/node.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/node.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/reporters.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/reporters.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/reporters.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/reporters.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/runners.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/runners.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/worker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/worker.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/workers/forks.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/workers/forks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/workers/threads.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/workers/threads.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/workers/vmForks.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/workers/vmForks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/dist/workers/vmThreads.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/dist/workers/vmThreads.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vitest/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vitest/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/istanbul-lib-instrument/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jest-snapshot/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jest-snapshot/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/make-dir/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ts-jest/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ts-jest/node_modules/.bin/semver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repl.log" beforeDir="false" afterPath="$PROJECT_DIR$/repl.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/command.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/command_exit.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/command_exit.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command_help.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/command_help.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/commands.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/commands.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repl.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl.test.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repl.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/repl.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokeapi.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokeapi.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pokecache.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pokecache.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/state.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -219,7 +172,8 @@
       <workItem from="1761934698611" duration="1545000" />
       <workItem from="1761938033548" duration="9043000" />
       <workItem from="1761951412471" duration="1838000" />
-      <workItem from="1762100065025" duration="7869000" />
+      <workItem from="1762100065025" duration="8087000" />
+      <workItem from="1762198590474" duration="2000000" />
     </task>
     <servers />
   </component>
